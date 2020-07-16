@@ -12,8 +12,9 @@
     input,
     textarea {
       margin: 2rem;
+      border-radius: 1rem;
       &:focus {
-        outline: 2px solid black;
+        outline: 1px solid transparent;
       }
     }
     textarea {
@@ -25,6 +26,7 @@
       padding: 2rem;
       background: $background-color;
       color: white;
+      border-radius: 1rem;
       &:focus {
         background: rgb(76, 163, 179);
       }
