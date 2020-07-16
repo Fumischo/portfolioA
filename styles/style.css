@@ -201,6 +201,10 @@ nav ul {
 .port1,
 .port2 {
   flex: 1 1 40rem;
+}
+
+.port1 img,
+.port2 img {
   border-radius: 15px;
 }
 
