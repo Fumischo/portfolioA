@@ -198,9 +198,10 @@ nav ul {
   margin: 5rem;
 }
 
-.travelly,
-.elena {
+.port1,
+.port2 {
   flex: 1 1 40rem;
+  border-radius: 15px;
 }
 
 .form-section {
@@ -324,12 +325,12 @@ footer h4 {
   .intro-social a {
     margin: 2rem;
   }
-  .elena,
-  .travelly {
+  .port1,
+  .port2 {
     flex: 1 1 50rem;
   }
-  .elena img,
-  .travelly img {
+  .port1 img,
+  .port2 img {
     width: 100%;
     height: 100%;
   }
